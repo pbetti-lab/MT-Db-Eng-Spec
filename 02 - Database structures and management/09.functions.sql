@@ -105,5 +105,6 @@ select
 	end as ProfitOrLoss
 from SalesRevenue
 
+-- test is finished. Drop the database
 -- drop database mysql_functions
 
